@@ -29,3 +29,5 @@ while game_is_on:
         food.refresh()
 
 screen.exitonclick()
+
+print("Something")
